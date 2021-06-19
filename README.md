@@ -6,7 +6,7 @@ My skils:
 HTML, CSS, JS
 
 My Portfolio:
-<a>hairdone.fi</a>
+hairdone.fi (mobile only)
 
 
 <!--
