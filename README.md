@@ -1,12 +1,17 @@
-### Hello, I'm lempidone 👋
+## Привет. Я Дмитрий - junior frontend developer 👋
 
-I'm junior frontend developer.
-
-My skils:
+### Мои навыки:
 HTML, CSS, JS
 
-My Portfolio:
-[hairdone.fi](https://hairdone.fi/ru) (mobile only)
+### Использую в работе:
+Препроцессоры: (SCSS);<br>
+Сборщики: (Gulp);<br>
+Система контроля версий: (Git);<br>
+Графические редакторы: (Figma, Photoshop);<br>
+Методологии верстки: BEM;<br>
+
+### Мои работы:
+[hairdone.fi](https://hairdone.fi) (mobile only)
 
 
 <!--
