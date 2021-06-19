@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello, I'm lempidone 👋
+
+I'm junior frontend developer.
+
+My skils:
+HTML, CSS, JS
+
+My Portfolio:
+<a>hairdone.fi</a>
+
 
 <!--
 **lempidone/lempidone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
