@@ -1,4 +1,4 @@
-## Привет. Я Дмитрий - junior frontend developer 👋
+## Привет. Я Дмитрий - frontend developer 👋
 
 ### Мои навыки:
 HTML, CSS, JS
