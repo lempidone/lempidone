@@ -6,12 +6,15 @@ HTML, CSS, JS
 ### Использую в работе:
 Препроцессоры: (SCSS, Pug);<br>
 Сборщики: (Gulp);<br>
-Система контроля версий: (Git);<br>
+Система контроля версий: (GitHub, GitLab);<br>
 Графические редакторы: (Figma, Photoshop);<br>
 Методологии верстки: BEM;<br>
 
 ### Мои работы:
-[hairdone.fi](https://hairdone.fi) (mobile only)
+[hairdone.fi](https://hairdone.fi)
+
+### Опыт:
+10+ Комерческих проектов а "Лига А"
 
 
 <!--
